@@ -16,13 +16,9 @@ You can see what I am currently up to on [Bio-Otto.me][1].
 
 - Web: [Bio-Otto.me][1]
 - LinkedIn: [linkedin.com/in/natterstefan][2]
-- Twitter: [twitter.com/natterstefan][3]
-- Blog: [http://compbio.bioe.eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir.me][4]
-- YouTube: [youtube.com/natterstefan][11]
-- Other Channels:
-  - [dev.to/natterstefan][10]
-  - [medium.com/@natterstefan][6]
-  - [hashnode.com/@natterstefan][7]
+- Twitter: [twitter.com/CompbioH][3]
+- Blog: [http://compbio.bioe.eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir][4]
+
 
 👉🏻👉🏻📧 Sign up for my [newsletter][5].
 
@@ -36,41 +32,6 @@ am familiar with including **Python**, **Matlab**, **C**, and
 
 You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Start Over Again and Unmute All Twitter Users.](https://blog.natterstefan.me/start-over-again-and-unmute-all-twitter-users)
-- [How to Use Multiple Node Version With asdf.](https://blog.natterstefan.me/how-to-use-multiple-node-version-with-asdf)
-- [Git: Automatically Lint Your Code or Run Tests on `git push` with Git Hooks](https://blog.natterstefan.me/git-automatically-lint-your-code-or-run-tests-on-git-push-with-git-hooks)
-- [How to Dockerize a NextJS application](https://blog.natterstefan.me/how-to-dockerize-a-nextjs-application)
-- [My Favorite Visual Studio Code Extensions - Part I](https://blog.natterstefan.me/my-favorite-visual-studio-code-extensions-part-i)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://blog.natterstefan.me)
-
-## 📺 Latest YouTube Videos
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaKtbjfNtWRulKg6VlYd8kw?label=YouTube%20Subscribers&style=social)
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Setup nodemon in a Docker and TypeScript App | Social Data Dashboard | With Francesco Ciulla](https://www.youtube.com/watch?v=Fw5-8OJ6Qy8)
-- [Grafana Dashboard with Node-Cron | Social Data Dashboard | With Francesco Ciulla](https://www.youtube.com/watch?v=ESXUT9dGM60)
-- [How to use rtk-query in a Next.js app](https://www.youtube.com/watch?v=GRhnLRbRCvM)
-- [How to Create a Resume with Tailwind and Nextjs - Part 2](https://www.youtube.com/watch?v=pRXjx1UmYyU)
-- [How to Create a Resume with TailwindUI and Next.js - PART 1](https://www.youtube.com/watch?v=YA1hzqfv2i8)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-➡️ [more videos...](https://youtube.com/natterstefan)
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
-2. 🗣 Commented on [#1202](https://github.com/isaachinman/next-i18next/issues/1202) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-3. 🗣 Commented on [#1202](https://github.com/isaachinman/next-i18next/issues/1202) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-4. 🗣 Commented on [#2](https://github.com/natterstefan/next-with-sentry/issues/2) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-5. ❌ Reopened PR [#2](https://github.com/natterstefan/next-with-sentry/pull/2) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-<!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
 
