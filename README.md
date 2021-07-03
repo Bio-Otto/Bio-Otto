@@ -15,7 +15,7 @@ You can see what I am currently up to on [Bio-Otto.me][1].
 ## 📬 Get in touch
 
 - Web: [Bio-Otto.me][1]
-- LinkedIn: [https://www.linkedin.com/in/halil-ibrahim-%C3%B6zdemir-951197b9/][2]
+- LinkedIn: [linkedin][2]
 - Twitter: [twitter.com/CompbioH][3]
 - Blog: [http://compbio.bioe.eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir][4]
 
@@ -45,7 +45,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 [1]:
   https://Bio-Otto.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=Bio-Otto
-[2]: https://www.linkedin.com/in/CompBioH
+[2]: https://www.linkedin.com/in/halil-ibrahim-%C3%B6zdemir-951197b9/
 [3]: https://twitter.com/intent/follow?screen_name=Bio-Otto
 [4]: https://blog.Bio-Otto.me
 [5]:
