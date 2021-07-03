@@ -29,7 +29,7 @@
 
 <h2 align='left'>#Github Points: :octocat:🏆️</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bio-Otto&theme=dracula&margin-w=7&hide_border=true" alt="thalesbruno points"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Bio-Otto&theme=dracula&margin-w=7&hide_border=true" alt="Ozdemir points"/>
 </p>
 
 
