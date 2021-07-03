@@ -10,14 +10,14 @@ Hey 👋🏻,
 
 I am currently a Master's degree student in the Department of Bioengineering at Marmara University from Turkey 🇹. I am interested in, write about, and develop (open source) software solutions using Python, C and Matlab mostly.
 
-You can see what I am currently up to on [Bio-Otto][4].
+You can see what I am currently up to on [Bio-Otto][6].
 
 ## 📬 Get in touch
 
-- Web: [Bio-Otto.me][1]
-- LinkedIn: [linkedin][2]
-- Twitter: [twitter.com/CompbioH][3]
-- Blog: [http://compbio.bioe.eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir][4]
+- Web: [Compbio-Hub][4]
+- LinkedIn: [H. Ibrahim Ozdemir][2]
+- Twitter: [CompbioH][3]
+- Blog: [Marmara][4]
 
 
 👉🏻👉🏻📧 Sign up for my [newsletter][5].
@@ -45,12 +45,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 [1]: https://Bio-Otto.me/?utm_source=github.com&utm_medium=gh-profile-Bio-Otto&utm_campaign=Bio-Otto
 [2]: https://www.linkedin.com/in/halil-ibrahim-%C3%B6zdemir-951197b9/
-[3]: https://twitter.com/intent/follow?screen_name=Bio-Otto
+[3]: https://twitter.com/CompbioH
 [4]: http://compbio-hub.com/
 [5]: https://newsletter.Bio-Otto.me?utm_source=github.com&utm_medium=gh-profile-Bio-Otto&utm_campaign=Bio-Otto
-[6]: https://medium.com/@Bio-Otto
-[7]: https://hashnode.com/@Bio-Otto
-[8]: https://nttr.st/2QoQhEb
-[9]: https://nttr.st/2YEatXb
-[10]: https://dev.to/Bio-Otto
-[11]: fhttps://www.youtube.com/Bio-Otto?sub_confirmation=1
+[6]: http://compbio.bioe.eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir
