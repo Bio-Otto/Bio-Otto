@@ -5,7 +5,7 @@
   <img align="left" alt="Thales' Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" />
 </a>
 <a href="https://dev.to/Bio-Otto">
-  <img align="left" alt="Thales' Dev.to" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
+  <img align="left" alt="Ozdemir' Dev.to" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
 </a>
 
 
@@ -17,19 +17,19 @@
 <center>
   <table>
     <tr>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesbruno&exclude_repo=ds-micro-tutorials&hide=html&layout=compact&show_icons=true&theme=radical" /></td>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=thalesbruno&show_icons=true&theme=radical" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bio-Otto&exclude_repo=ds-micro-tutorials&hide=html&layout=compact&show_icons=true&theme=radical" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bio-Otto&show_icons=true&theme=radical" /></td>
     </tr>   
   </table>
 </center>  
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bio-Otto" alt="thalesbruni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bio-Otto" alt="Bio-Otto" /> </p>
 
 <h2 align='left'>#Github Points: :octocat:🏆️</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=thalesbruno&theme=dracula&margin-w=7&hide_border=true" alt="thalesbruno points"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Bio-Otto&theme=dracula&margin-w=7&hide_border=true" alt="thalesbruno points"/>
 </p>
 
 
