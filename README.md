@@ -1,25 +1,23 @@
 [![Bio-Otto](http://compbio-hub.com/images/logonobg.png)][1]
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
-[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/natterstefan)
+[![GitHub Views](https://komarev.com/ghpvc/?username=Bio-Otto&color=FAC151)][1]
+[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/Bio-Otto)
 [![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
 [![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11]
 
 Hey 👋🏻,
 
-I am CEO and Co-Founder of marqant digital and Software Engineer from Austria
-🇦🇹. I am interested in, write about, and develop (open source) software solutions
-using JavaScript, TypeScript, ReactJS, and NodeJS.
+I am currently a Master's degree student in the Department of Bioengineering at Marmara University from Turkey 🇹. I am interested in, write about, and develop (open source) software solutions using Python, C and Matlab mostly.
 
-You can see what I am currently up to on [natterstefan.me][1].
+You can see what I am currently up to on [Bio-Otto.me][1].
 
 ## 📬 Get in touch
 
-- Web: [natterstefan.me][1]
+- Web: [Bio-Otto.me][1]
 - LinkedIn: [linkedin.com/in/natterstefan][2]
 - Twitter: [twitter.com/natterstefan][3]
-- Blog: [blog.natterstefan.me][4]
+- Blog: [http://compbio.bioe.eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir.me][4]
 - YouTube: [youtube.com/natterstefan][11]
 - Other Channels:
   - [dev.to/natterstefan][10]
