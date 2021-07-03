@@ -32,7 +32,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thalesbruno" alt="thalesbruni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bio-Otto" alt="thalesbruni" /> </p>
 
 <h2 align='left'>#Github Points: :octocat:🏆️</h2>
 <p align="center">
@@ -41,7 +41,7 @@
 
 
 <!--
-**thalesbruno/thalesbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bio-Otto/Bio-Otto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
