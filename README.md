@@ -15,7 +15,7 @@ You can see what I am currently up to on [Bio-Otto.me][1].
 ## 📬 Get in touch
 
 - Web: [Bio-Otto.me][1]
-- LinkedIn: [linkedin.com/in/natterstefan][2]
+- LinkedIn: [linkedin.com/in/halil-ibrahim-%C3%B6zdemir-951197b9/][2]
 - Twitter: [twitter.com/CompbioH][3]
 - Blog: [http://compbio.bioe.eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir][4]
 
@@ -24,7 +24,7 @@ You can see what I am currently up to on [Bio-Otto.me][1].
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [blog.natterstefan.me][4]. I write about things I
+You can find my blog posts on [http://compbio-hub.com/][4]. I write about things I
 am familiar with including **Python**, **Matlab**, **C**, and
 **CSS**. I also do reviews of software and hardware.
 
