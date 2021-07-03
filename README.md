@@ -29,8 +29,8 @@ You can see what I am currently up to on [Bio-Otto.me][1].
 ## 🌳 My Digital Garden
 
 You can find my blog posts on [blog.natterstefan.me][4]. I write about things I
-am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
-**NodeJS**. I also do reviews of software and hardware.
+am familiar with including **Python**, **Matlab**, **C**, and
+**CSS**. I also do reviews of software and hardware.
 
 ## 🤜🏻🤛🏻 Support Me
 
@@ -74,24 +74,24 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=000000&text_color=000000" />
+<a href="https://github.com/Bio-Otto/Bio-Otto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bio-Otto&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
-<a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="natterstefan's GitHub Stats" />
+<a href="https://github.com/Bio-Otto/Bio-Otto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bio-Otto&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="Bio-Otto's GitHub Stats" />
 </a>
 
 [1]:
-  https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[2]: https://www.linkedin.com/in/natterstefan
-[3]: https://twitter.com/intent/follow?screen_name=natterstefan
-[4]: https://blog.natterstefan.me
+  https://Bio-Otto.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=Bio-Otto
+[2]: https://www.linkedin.com/in/CompBioH
+[3]: https://twitter.com/intent/follow?screen_name=Bio-Otto
+[4]: https://blog.Bio-Otto.me
 [5]:
-  https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[6]: https://medium.com/@natterstefan
-[7]: https://hashnode.com/@natterstefan
+  https://newsletter.Bio-Otto.me?utm_source=github.com&utm_medium=gh-profile-Bio-Otto&utm_campaign=Bio-Otto
+[6]: https://medium.com/@Bio-Otto
+[7]: https://hashnode.com/@Bio-Otto
 [8]: https://nttr.st/2QoQhEb
 [9]: https://nttr.st/2YEatXb
-[10]: https://dev.to/natterstefan
-[11]: fhttps://www.youtube.com/natterstefan?sub_confirmation=1
+[10]: https://dev.to/Bio-Otto
+[11]: fhttps://www.youtube.com/Bio-Otto?sub_confirmation=1
