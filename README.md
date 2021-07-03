@@ -15,7 +15,7 @@ You can see what I am currently up to on [Bio-Otto.me][1].
 ## 📬 Get in touch
 
 - Web: [Bio-Otto.me][1]
-- LinkedIn: [linkedin.com/in/halil-ibrahim-%C3%B6zdemir-951197b9/][2]
+- LinkedIn: [https://www.linkedin.com/in/halil-ibrahim-%C3%B6zdemir-951197b9/][2]
 - Twitter: [twitter.com/CompbioH][3]
 - Blog: [http://compbio.bioe.eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir][4]
 
