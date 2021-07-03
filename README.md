@@ -10,7 +10,7 @@ Hey 👋🏻,
 
 I am currently a Master's degree student in the Department of Bioengineering at Marmara University from Turkey 🇹. I am interested in, write about, and develop (open source) software solutions using Python, C and Matlab mostly.
 
-You can see what I am currently up to on [Bio-Otto.me][1].
+You can see what I am currently up to on [Bio-Otto][4].
 
 ## 📬 Get in touch
 
@@ -43,13 +43,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bio-Otto&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="Bio-Otto's GitHub Stats" />
 </a>
 
-[1]:
-  https://Bio-Otto.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=Bio-Otto
+[1]: https://Bio-Otto.me/?utm_source=github.com&utm_medium=gh-profile-Bio-Otto&utm_campaign=Bio-Otto
 [2]: https://www.linkedin.com/in/halil-ibrahim-%C3%B6zdemir-951197b9/
 [3]: https://twitter.com/intent/follow?screen_name=Bio-Otto
-[4]: https://blog.Bio-Otto.me
-[5]:
-  https://newsletter.Bio-Otto.me?utm_source=github.com&utm_medium=gh-profile-Bio-Otto&utm_campaign=Bio-Otto
+[4]: http://compbio-hub.com/
+[5]: https://newsletter.Bio-Otto.me?utm_source=github.com&utm_medium=gh-profile-Bio-Otto&utm_campaign=Bio-Otto
 [6]: https://medium.com/@Bio-Otto
 [7]: https://hashnode.com/@Bio-Otto
 [8]: https://nttr.st/2QoQhEb
