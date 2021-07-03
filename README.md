@@ -1,4 +1,4 @@
-[![Bio-Otto](https://twitter.com/CompbioH/header_photo)][1]
+[![Bio-Otto](https://github.com/Bio-Otto/Example_MD_Scripts/blob/master/1500x500.jpg)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Bio-Otto&color=FAC151)][1]
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/Bio-Otto)
