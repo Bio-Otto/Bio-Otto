@@ -17,7 +17,7 @@ You can see what I am currently up to on [Bio-Otto][6].
 - Web: [Compbio-Hub][4]
 - LinkedIn: [H. Ibrahim Ozdemir][2]
 - Twitter: [CompbioH][3]
-- Blog: [Marmara][4]
+- Blog: [Marmara][6]
 
 
 👉🏻👉🏻📧 Sign up for my [newsletter][5].
