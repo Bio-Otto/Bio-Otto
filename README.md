@@ -7,7 +7,7 @@
 
 Hey 👋🏻,
 
-I am currently a Master's degree student in the Department of Bioengineering at Marmara University from Türkiye 🇹. I am interested in, write about, and develop (open source) software solutions using Python, C and Matlab mostly.
+I am currently a PhD student in the Department of Bioengineering at Marmara University from Türkiye 🇹. I am interested in, write about, and develop (open source) software solutions using Python, C and Matlab mostly.
 
 You can see what I am currently up to on [Bio-Otto][6].
 
