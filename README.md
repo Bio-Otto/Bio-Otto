@@ -43,8 +43,8 @@ If something I built saved you some time, you can buy me a coffee, or just leave
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=dark">
-    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light" alt="random dev quote">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/quote-dark.svg">
+    <img src="./assets/quote-light.svg" width="100%" alt="En hakiki mürşit ilimdir, fendir. — Mustafa Kemal Atatürk">
   </picture>
 </p>
 
