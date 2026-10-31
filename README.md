@@ -43,8 +43,8 @@ Hi 👋 I wander between fields and build open-source tools wherever a problem c
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bio-Otto&theme=github&utcOffset=3" width="49%" alt="productive time">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Bio-Otto&theme=dark&hide_border=true&ring=2E7D32&fire=2E7D32&currStreakLabel=69F0AE">
-    <img src="https://streak-stats.demolab.com/?user=Bio-Otto&hide_border=true&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32" width="49%" alt="GitHub streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Bio-Otto&card_width=510&card_height=300&disable_animations=true&border_radius=6&ring=2E7D32&background=0D1117&border=30363D&fire=69F0AE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E">
+    <img src="https://streak-stats.demolab.com/?user=Bio-Otto&card_width=510&card_height=300&disable_animations=true&border_radius=6&ring=2E7D32&background=FFFFFF&border=E1E4E8&fire=2E7D32&currStreakNum=24292E&sideNums=24292E&currStreakLabel=0366D6&sideLabels=0366D6&dates=586069" width="49%" alt="GitHub streak">
   </picture>
 </p>
 
