@@ -1,29 +1,38 @@
-### Halil İbrahim Özdemir
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2E7D32&height=150&section=header&text=Halil%20%C4%B0brahim%20%C3%96zdemir&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Molecular%20dynamics%20%C2%B7%20open-source%20tools&descSize=16&descAlignY=60" width="100%" alt="header"/>
 
-PhD candidate in Structural Bioinformatics, Department of Bioengineering, Marmara University (Istanbul)<br>
-[Computational Biology and Bioinformatics Research Group](https://compbio-bioe-eng.marmara.edu.tr/)
+Hi 👋 I build open-source tools for molecular dynamics simulations, mostly in Python on top of [OpenMM](https://openmm.org/).
 
-I use atomistic molecular dynamics simulations to study how protein structure relates to function. My PhD project is on the structure–function relationship of IgG4 antibodies. In my MSc I worked on allosteric communication pathways inside proteins, and that work became [MDPerTool](https://github.com/Bio-Otto/MDPerTool_GUI).
+### 🔧 Currently working on
 
-I also work as a specialist at AbdiBIO, the biologics site of Abdi İbrahim, on the analytical characterization of monoclonal antibodies.
+**[OpenGBSA](https://github.com/Bio-Otto/opengbsa)**: MM/GBSA binding energies from MD trajectories. Runs on CPU or GPU (CUDA/OpenCL), reads Amber, GROMACS, CHARMM/NAMD and OpenMM files, and needs no AmberTools install.
 
-Most of the code I publish is open-source tooling for MD analysis, written in Python on top of [OpenMM](https://openmm.org/).
+[![conda](https://anaconda.org/bio-otto/opengbsa/badges/version.svg)](https://anaconda.org/bio-otto/opengbsa)
+[![docs](https://img.shields.io/badge/docs-readthedocs-blue.svg)](https://opengbsa.readthedocs.io/)
 
-#### Research interests
+### 📦 Other projects
 
-- Antibody structure and dynamics (IgG4)
-- Allosteric communication and energy dissipation in proteins
-- End-point binding free energy methods (MM/GBSA)
-- Statistical monitoring of biopharmaceutical quality attributes
-
-#### Software
-
-| Project | Description |
+| Project | What it does |
 |---|---|
-| [**OpenGBSA**](https://github.com/Bio-Otto/opengbsa) | MM/GBSA binding energies from MD trajectories, computed with OpenMM on CPU or GPU. Reads Amber, GROMACS, CHARMM/NAMD and OpenMM inputs, with per-residue decomposition and entropy estimates. [Documentation](https://opengbsa.readthedocs.io/) |
-| [**MDPerTool**](https://github.com/Bio-Otto/MDPerTool_GUI) | Finds allosteric communication pathways in proteins from how energy dissipates after a perturbation in MD simulations. GUI and CLI, available on conda (`bio-otto::mdpertool`). |
-| [**molmin**](https://github.com/Bio-Otto/molmin) | Applies point mutations to a protein structure and energy-minimizes it with OpenMM. |
+| [MDPerTool](https://github.com/Bio-Otto/MDPerTool_GUI) [![downloads](https://anaconda.org/bio-otto/mdpertool/badges/downloads.svg)](https://anaconda.org/bio-otto/mdpertool) | Finds allosteric pathways in proteins from energy dissipation in MD simulations. GUI + CLI. |
+| [molmin](https://github.com/Bio-Otto/molmin) | Mutates and minimizes protein structures with OpenMM. |
+| [Example_MD_Scripts](https://github.com/Bio-Otto/Example_MD_Scripts) | Handy scripts for MD simulation analysis. |
+| [Lab-Releated-Stuffs](https://github.com/Bio-Otto/Lab-Releated-Stuffs) | Ready-to-use tools that are always needed in the lab. |
 
-#### Contact
+### 🛠️ Tools
 
-[Group page](https://compbio-bioe-eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir) · [LinkedIn](https://www.linkedin.com/in/hibrahimozdemir)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenMM](https://img.shields.io/badge/OpenMM-2E7D32)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+
+### 📈 Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bio-Otto&hide_border=true)](https://github.com/Bio-Otto)
+
+### 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hibrahimozdemir)
