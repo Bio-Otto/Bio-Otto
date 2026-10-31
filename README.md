@@ -24,15 +24,6 @@ Most of the code I publish is open-source tooling for MD analysis, written in Py
 | [**MDPerTool**](https://github.com/Bio-Otto/MDPerTool_GUI) | Finds allosteric communication pathways in proteins from how energy dissipates after a perturbation in MD simulations. GUI and CLI, available on conda (`bio-otto::mdpertool`). |
 | [**molmin**](https://github.com/Bio-Otto/molmin) | Applies point mutations to a protein structure and energy-minimizes it with OpenMM. |
 
-#### Preprints
-
-- **Özdemir HI**, Doğan B, Özbek Sarıca P. Matched-calibration of changepoint detectors for biopharmaceutical quality monitoring. *Research Square* (preprint), 2026. [doi:10.21203/rs.3.rs-10498205/v1](https://doi.org/10.21203/rs.3.rs-10498205/v1) · [code](https://github.com/Bio-Otto/changepoint-robustness-2026) · [archived release](https://doi.org/10.5281/zenodo.22295804)
-
-#### Conference contributions
-
-- Özer ME, **Özdemir HI**, Serçinoğlu O, Bingöl EN, Özbek Sarıca P. A tool for investigating protein signaling network by perturbation of external energy dissipation. *7th International Bahçeşehir University Drug Design Congress*, 19–21 December 2019 (abstract).
-- Poster PDFs: [poster-presentations](https://github.com/Bio-Otto/poster-presentations)
-
 #### Contact
 
 [Group page](https://compbio-bioe-eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir) · [LinkedIn](https://www.linkedin.com/in/hibrahimozdemir)
