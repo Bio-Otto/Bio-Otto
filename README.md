@@ -20,6 +20,10 @@ Hi 👋 I wander between fields and build open-source tools wherever a problem c
 ### 📈 Activity
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/2E7D32/Bio-Otto" width="100%" alt="contribution calendar by month">
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bio-Otto&theme=dark&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bio-Otto&hide_border=true" alt="GitHub streak">
