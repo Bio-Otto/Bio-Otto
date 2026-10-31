@@ -9,7 +9,7 @@ Hi 👋 I wander between fields and build open-source tools wherever a problem c
 ### 🛠️ Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,c,matlab,anaconda,qt,linux,ubuntu,bash,git,github,vscode&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cc%2Cmatlab%2Canaconda%2Cqt%2Clinux%2Cubuntu%2Cbash%2Cgit%2Cgithub%2Cvscode&theme=dark">
   <img src="https://skillicons.dev/icons?i=py,c,matlab,anaconda,qt,linux,ubuntu,bash,git,github,vscode&theme=light" alt="Python, C, MATLAB, Anaconda, Qt, Linux, Ubuntu, Bash, Git, GitHub, VS Code">
 </picture>
 
