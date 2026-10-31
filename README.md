@@ -21,42 +21,12 @@ Hi 👋 I wander between fields and build open-source tools wherever a problem c
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bio-Otto&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bio-Otto&theme=github" width="100%" alt="profile details">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bio-Otto&theme=dark&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bio-Otto&hide_border=true" alt="GitHub streak">
   </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bio-Otto&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bio-Otto&theme=github" width="49%" alt="stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bio-Otto&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bio-Otto&theme=github" width="49%" alt="most commit language">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bio-Otto&theme=github_dark&utcOffset=3">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bio-Otto&theme=github&utcOffset=3" width="49%" alt="productive time">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Bio-Otto&card_width=510&card_height=300&disable_animations=true&border_radius=6&ring=2E7D32&background=0D1117&border=30363D&fire=69F0AE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E">
-    <img src="https://streak-stats.demolab.com/?user=Bio-Otto&card_width=510&card_height=300&disable_animations=true&border_radius=6&ring=2E7D32&background=FFFFFF&border=E1E4E8&fire=2E7D32&currStreakNum=24292E&sideNums=24292E&currStreakLabel=0366D6&sideLabels=0366D6&dates=586069" width="49%" alt="GitHub streak">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bio-Otto&color=2E7D32&label=Profile+views" alt="profile views">
 </p>
 
 ### 📫 Reach me
-
-- 💬 Ask me about simulation, data analysis, automation, Python tooling and conda packaging
-- 🤝 Open to collaborating on open-source tools
-- 🐛 Found a bug in one of my tools? Open an issue on its repo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hibrahimozdemir)
 [![Anaconda](https://img.shields.io/badge/Anaconda-bio--otto-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/bio-otto)
