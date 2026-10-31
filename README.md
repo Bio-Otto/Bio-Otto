@@ -1,50 +1,38 @@
-[![Bio-Otto](https://github.com/Bio-Otto/Example_MD_Scripts/blob/master/1500x500.jpg)][1]
+### Halil İbrahim Özdemir
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=Bio-Otto&color=FAC151)][1]
-[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/Bio-Otto)
-[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
-[![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
+PhD candidate in Structural Bioinformatics, Department of Bioengineering, Marmara University (Istanbul)<br>
+[Computational Biology and Bioinformatics Research Group](https://compbio-bioe-eng.marmara.edu.tr/)
 
-Hey 👋🏻,
+I use atomistic molecular dynamics simulations to study how protein structure relates to function. My PhD project is on the structure–function relationship of IgG4 antibodies. In my MSc I worked on allosteric communication pathways inside proteins, and that work became [MDPerTool](https://github.com/Bio-Otto/MDPerTool_GUI).
 
-I am currently a PhD candidate in the Department of Bioengineering at Marmara University from Türkiye 🇹. I am interested in, write about, and develop (open source) software solutions using Python, C and Matlab mostly.
+I also work as a specialist at AbdiBIO, the biologics site of Abdi İbrahim, on the analytical characterization of monoclonal antibodies.
 
-You can see what I am currently up to on [Bio-Otto][6].
+Most of the code I publish is open-source tooling for MD analysis, written in Python on top of [OpenMM](https://openmm.org/).
 
-## 📬 Get in touch
+#### Research interests
 
-- Web: [Compbio-Hub][4]
-- LinkedIn: [H. Ibrahim Ozdemir][2]
-- Twitter: [CompbioH][3]
-- Blog: [Marmara][6]
+- Antibody structure and dynamics (IgG4)
+- Allosteric communication and energy dissipation in proteins
+- End-point binding free energy methods (MM/GBSA)
+- Statistical monitoring of biopharmaceutical quality attributes
 
+#### Software
 
-👉🏻👉🏻📧 Sign up for my [newsletter][5].
+| Project | Description |
+|---|---|
+| [**OpenGBSA**](https://github.com/Bio-Otto/opengbsa) | MM/GBSA binding energies from MD trajectories, computed with OpenMM on CPU or GPU. Reads Amber, GROMACS, CHARMM/NAMD and OpenMM inputs, with per-residue decomposition and entropy estimates. [Documentation](https://opengbsa.readthedocs.io/) |
+| [**MDPerTool**](https://github.com/Bio-Otto/MDPerTool_GUI) | Finds allosteric communication pathways in proteins from how energy dissipates after a perturbation in MD simulations. GUI and CLI, available on conda (`bio-otto::mdpertool`). |
+| [**molmin**](https://github.com/Bio-Otto/molmin) | Applies point mutations to a protein structure and energy-minimizes it with OpenMM. |
 
-## 🌳 My Digital Garden
+#### Preprints
 
-You can find my blog posts on [http://compbio-hub.com/][4]. I write about things I
-am familiar with including **Python**, **Matlab**, **C**, and
-**CSS**. I also do reviews of software and hardware.
+- **Özdemir HI**, Doğan B, Özbek Sarıca P. Matched-calibration of changepoint detectors for biopharmaceutical quality monitoring. *Research Square* (preprint), 2026. [doi:10.21203/rs.3.rs-10498205/v1](https://doi.org/10.21203/rs.3.rs-10498205/v1) · [code](https://github.com/Bio-Otto/changepoint-robustness-2026) · [archived release](https://doi.org/10.5281/zenodo.22295804)
 
-## 🤜🏻🤛🏻 Support Me
+#### Conference contributions
 
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
+- Özer ME, **Özdemir HI**, Serçinoğlu O, Bingöl EN, Özbek Sarıca P. A tool for investigating protein signaling network by perturbation of external energy dissipation. *7th International Bahçeşehir University Drug Design Congress*, 19–21 December 2019 (abstract).
+- Poster PDFs: [poster-presentations](https://github.com/Bio-Otto/poster-presentations)
 
+#### Contact
 
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/Bio-Otto/Bio-Otto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bio-Otto&hide=java,html&title_color=000000&text_color=000000" />
-</a>
-
-<a href="https://github.com/Bio-Otto/Bio-Otto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bio-Otto&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="Bio-Otto's GitHub Stats" />
-</a>
-
-[1]: https://Bio-Otto.me/?utm_source=github.com&utm_medium=gh-profile-Bio-Otto&utm_campaign=Bio-Otto
-[2]: https://www.linkedin.com/in/halil-ibrahim-%C3%B6zdemir-951197b9/
-[3]: https://twitter.com/CompbioH
-[4]: http://compbio-hub.com/
-[5]: https://newsletter.Bio-Otto.me?utm_source=github.com&utm_medium=gh-profile-Bio-Otto&utm_campaign=Bio-Otto
-[6]: http://compbio.bioe.eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir
+[Group page](https://compbio-bioe-eng.marmara.edu.tr/group-members/halil-ibrahim-ozdemir) · [LinkedIn](https://www.linkedin.com/in/hibrahimozdemir)
