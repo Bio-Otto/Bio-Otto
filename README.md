@@ -8,14 +8,14 @@ Hi 👋 I wander between fields and build open-source tools wherever a problem c
 
 ### 🛠️ Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,c,matlab,anaconda,qt,linux,ubuntu,bash,git,github,vscode&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,c,matlab,anaconda,qt,linux,ubuntu,bash,git,github,vscode&theme=light" alt="Python, C, MATLAB, Anaconda, Qt, Linux, Ubuntu, Bash, Git, GitHub, VS Code">
+</picture>
+
 ![OpenMM](https://img.shields.io/badge/OpenMM-2E7D32)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ### 📈 Activity
 
@@ -40,5 +40,12 @@ Hi 👋 I wander between fields and build open-source tools wherever a problem c
 If something I built saved you some time, you can buy me a coffee, or just leave a ⭐ on the repo.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/biootto)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=dark">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light" alt="random dev quote">
+  </picture>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:111827&height=100&section=footer" width="100%" alt="footer"/>
