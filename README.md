@@ -48,4 +48,9 @@ If something I built saved you some time, you can buy me a coffee, or just leave
   </picture>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bio-Otto/Bio-Otto/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Bio-Otto/Bio-Otto/output/github-snake.svg" width="100%" alt="contribution snake">
+</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:111827&height=100&section=footer" width="100%" alt="footer"/>
