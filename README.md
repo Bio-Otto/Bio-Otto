@@ -44,7 +44,7 @@ If something I built saved you some time, you can buy me a coffee, or just leave
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/quote-dark.svg">
-    <img src="./assets/quote-light.svg" width="100%" alt="En hakiki mürşit ilimdir, fendir. — Mustafa Kemal Atatürk">
+    <img src="./assets/quote-light.svg" width="100%" alt="En hakiki mürşit ilimdir, fendir. — Mustafa Kemal Atatürk / Çok çalışmak lazım, yaptığımız deneylerin yüzde 80-90'ından bir şey çıkmaz. O yüzden buna alışmak lazım. Tekrar tekrar denemek lazım. — Aziz Sancar">
   </picture>
 </p>
 
