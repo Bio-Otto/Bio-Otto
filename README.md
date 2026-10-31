@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2E7D32&height=150&section=header&text=Halil%20%C4%B0brahim%20%C3%96zdemir&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Molecular%20dynamics%20%C2%B7%20open-source%20tools&descSize=16&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2E7D32&height=150&section=header&text=Halil%20%C4%B0brahim%20%C3%96zdemir&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Open%20Source%20Nomad&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
-Hi 👋 I build open-source tools for molecular dynamics simulations, mostly in Python on top of [OpenMM](https://openmm.org/).
+Hi 👋 I wander between fields and build open-source tools wherever a problem catches my interest: simulation, data analysis, automation and anything in between. Mostly in Python.
 
 ### 🔧 Currently working on
 
